@@ -101,7 +101,7 @@ class _CounterViewState extends State<CounterView> {
                     backgroundColor: MaterialStateProperty.all(
                         Color.fromARGB(255, 48, 46, 46)),
                   ),
-                  child: const Icon(Icons.restore),
+                  child: const Icon(Icons.delete),
                 ),
               ],
             ),
